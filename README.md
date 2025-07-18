@@ -135,7 +135,6 @@ Motivation     ██████████ 100%
 </table>
 
 </div>
-
 ---
 <div align="center">
 
