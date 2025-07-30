@@ -2,7 +2,7 @@
   
 # 👋 Salut, je suis Fatima
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Stagiaire+D%C3%A9veloppeur+Digital;Passionn%C3%A9+par+le+Code;En+Apprentissage+Continu;Future+Mobile+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Stagiaire+D%C3%A9veloppeur+Digital;Passionn%C3%A9+par+le+Code;En+Apprentissage+Continu;Future+Mobile+Developeuse" alt="Typing SVG" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,30&height=150&section=header&text=D%C3%A9veloppeur%20en%20Formation&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
 
@@ -89,10 +89,10 @@ console.log("🎯 Prêt à coder le futur !");
 
 *Frontend Skills*
 
-HTML/CSS     ████████░░ 80%
-JavaScript   ██████░░░░ 60%
-Bootstrap    ███████░░░ 70%
-Responsive   ██████░░░░ 60%
+HTML/CSS     ████████░░ 80% <br>
+JavaScript   ██████░░░░ 60%<br>
+Bootstrap    ███████░░░ 70%<br>
+Responsive   ██████░░░░ 60%<br>
 
 
 </td>
@@ -100,10 +100,10 @@ Responsive   ██████░░░░ 60%
 
 *Backend Skills*
 
-Python       ███████░░░ 70%
-PHP          █████░░░░░ 50%
-Flask        ██████░░░░ 60%
-SQL          ████░░░░░░ 40%
+Python       ███████░░░ 70%<br>
+PHP          █████░░░░░ 50%<br>
+Flask        ██████░░░░ 60%<br>
+SQL          ████░░░░░░ 40%<br>
 
 
 </td>
@@ -113,10 +113,10 @@ SQL          ████░░░░░░ 40%
 
 *Tools & Environment*
 
-Git/GitHub   ██████░░░░ 60%
-PyCharm      ███████░░░ 70%
-Linux        ████░░░░░░ 40%
-VS Code      ████████░░ 80%
+Git/GitHub   ██████░░░░ 60%<br>
+PyCharm      ███████░░░ 70%<br>
+Linux        ████░░░░░░ 40%<br>
+VS Code      ████████░░ 80%<br>
 
 
 </td>
@@ -124,10 +124,10 @@ VS Code      ████████░░ 80%
 
 *Soft Skills*
 
-Problem Solving ███████░░░ 70%
-Team Work      ██████░░░░ 60%
-Learning       █████████░ 90%
-Motivation     ██████████ 100%
+Problem Solving ███████░░░70%<br>
+Team Work      ██████░░░░ 60%<br>
+Learning       █████████░ 90%<br>
+Motivation     ██████████ 100%<br>
 
 
 </td>
