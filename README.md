@@ -19,7 +19,7 @@
 Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée dans le développement d'applications Android avec **Kotlin**. J'aime transformer des idées en applications intuitives et modernes. Mon objectif est de créer des expériences mobiles qui simplifient la vie des utilisateurs.
 
 ### 🎯 Objectifs Actuels
-- 📱 Maîtriser l'écosystème Android et Kotlin
+- 📱 Maîtriser l'écosystème Android
 - 🎨 Créer des interfaces utilisateur élégantes et fluides
 - 💼 Recherche active de **stage ou alternance** en développement mobile
 - 🌱 Apprentissage continu et partage de connaissances
