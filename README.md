@@ -28,7 +28,7 @@ Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée d
 
 ```kotlin
 class Fatima {
-    val role = "Développeuse Mobile Kotlin"
+    val role = "Développeuse Mobile"
     val passion = listOf("Android", "UI/UX", "Clean Code")
     val status = "En formation continue"
     
