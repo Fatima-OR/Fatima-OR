@@ -98,7 +98,7 @@ class Fatima {
 
 Application mobile développée en **Kotlin** avec une architecture MVVM propre, intégrant Room Database pour la persistance locale.
 
-**Technologies:** Kotlin · XML · Room · MVVM
+**Technologies:** Kotlin · XML 
 
 </td>
 <td width="50%" valign="top">
@@ -108,7 +108,7 @@ Application mobile développée en **Kotlin** avec une architecture MVVM propre,
 
 Application web complète avec backend Python Flask et frontend responsive, incluant une API REST sécurisée.
 
-**Technologies:** Python · Flask · HTML/CSS/JS
+**Technologies:** Python · Flask · HTML/CSS/JS .php .SQL
 
 </td>
 </tr>
