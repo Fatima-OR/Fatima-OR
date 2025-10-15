@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Développeuse+Mobile+Kotlin+%F0%9F%93%B1;Passionnée+par+le+Code+%E2%9C%A8;Apprenante+Curieuse+%F0%9F%9A%80;Créatrice+d'Expériences+Mobiles" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Développeuse+Mobile+%F0%9F%93%B1;Passionnée+par+le+Code+%E2%9C%A8;Apprenante+Curieuse+%F0%9F%9A%80;Créatrice+d'Expériences+Mobiles" alt="Typing Animation" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <img align="right" alt="Mobile Development" width="280" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée dans le développement d'applications Android avec **Kotlin**. J'aime transformer des idées en applications intuitives et modernes. Mon objectif est de créer des expériences mobiles qui simplifient la vie des utilisateurs.
+Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée dans le développement d'applications Android. J'aime transformer des idées en applications intuitives et modernes. Mon objectif est de créer des expériences mobiles qui simplifient la vie des utilisateurs.
 
 ### 🎯 Objectifs Actuels
 - 📱 Maîtriser l'écosystème Android
