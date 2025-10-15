@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:667EEA&height=180&section=header&text=Fatima&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,100:667EEA&height=180&section=header&text=Fatima+%E2%80%A2+Développeuse+Android&fontSize=60&fontAlignY=35&animation=slideIn&fontColor=ffffff&fontAlign=left&desc" alt="Fatima Développeuse Android"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <img align="right" alt="Mobile Development" width="280" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée dans le développement d'applications Android. J'aime transformer des idées en applications intuitives et modernes. Mon objectif est de créer des expériences mobiles qui simplifient la vie des utilisateurs.
+Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée dans le développement d'applications Mobile. J'aime transformer des idées en applications intuitives et modernes. Mon objectif est de créer des expériences mobiles qui simplifient la vie des utilisateurs.
 
 ### 🎯 Objectifs Actuels
 - 📱 Maîtriser l'écosystème Android
@@ -93,7 +93,7 @@ class Fatima {
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Application Android
+### 📱 Application Mobile
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
 
 Application mobile développée en **Kotlin** avec une architecture MVVM propre, intégrant Room Database pour la persistance locale.
@@ -103,7 +103,7 @@ Application mobile développée en **Kotlin** avec une architecture MVVM propre,
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web App Full-Stack
+### 🌐 Web App 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
 
 Application web complète avec backend Python Flask et frontend responsive, incluant une API REST sécurisée.
@@ -159,11 +159,8 @@ Application web complète avec backend Python Flask et frontend responsive, incl
 
 ### ✨ *"Chaque projet est une opportunité de créer quelque chose d'extraordinaire"*
 
-<br/>
+![Footer](https://capsule-render.vercel.app/api?type=wave&height=180&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=36&fontColor=fff&color=0:00D9FF,50:6C5CE7,100:FF6B6B&animation=wave&fontAlignY=60&desc=🌟%20Au%20plaisir%20de%20collaborer%20avec%20vous%20!%20🚀&descSize=16&descAlignY=85&descColor=fff)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:00D9FF,100:764BA2&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-
-</div>
 
 ---
 
