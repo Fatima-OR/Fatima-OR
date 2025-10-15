@@ -21,7 +21,6 @@ Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée d
 ### 🎯 Objectifs Actuels
 - 📱 Maîtriser l'écosystème Android
 - 🎨 Créer des interfaces utilisateur élégantes et fluides
-- 💼 Recherche active de **stage ou alternance** en développement mobile
 - 🌱 Apprentissage continu et partage de connaissances
 
 <br clear="right"/>
