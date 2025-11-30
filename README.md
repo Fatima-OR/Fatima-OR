@@ -7,9 +7,7 @@
 </h1>
 
 <!-- Compteur de visites -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/votre-username/count.svg" />
-</div>
+
 
 <h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Android & Kotlin | Créatrice d'Expériences Digitales</h3>
 
@@ -18,9 +16,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://votre-portfolio.com)
 
 <!-- Trophées GitHub -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=votre-username&theme=dracula&no-frame=true&column=7&margin-w=15&title=Stars,Repositories,Commits,Followers,PullRequest,Issues,MultiLanguage" alt="trophies"/>
-</p>
 
 </div>
 
@@ -108,28 +103,6 @@ println(me.code())
 </div>
 
 ---
-
-<h2 align="center">📊 Statistiques et Activité</h2>
-
-<h3 align="center">🔥 Streak Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=votre-username&theme=dracula&hide_border=false&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=667EEA" width="500" alt="GitHub Streak"/>
-</p>
-
-<h3 align="center">💻 GitHub Profile Stats</h3>
-
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=00D9FF&icon_color=667EEA&text_color=C9D1D9" width="49%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&langs_count=8&theme=dracula&bg_color=1F222E&title_color=00D9FF&icon_color=667EEA&text_color=C9D1D9" width="41%" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=votre-username&bg_color=1f222e&color=00d9ff&line=667eea&point=00d9ff&area=true&hide_border=false" width="95%" alt="Contribution Graph"/>
-</div>
 
 ---
 
@@ -227,9 +200,6 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 ---
 
 <!-- Snake Animation -->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/votre-username/votre-username/output/snake.svg" alt="Snake animation" />
-</p>
 
 <div align="center">
    
