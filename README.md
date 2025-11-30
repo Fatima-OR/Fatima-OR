@@ -216,10 +216,6 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</p>
-
 <div align="center">
 <sub>💜 Développé avec passion</sub>
 </div>
