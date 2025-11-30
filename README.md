@@ -1,91 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:00D9FF,100:667EEA&height=180&section=header&text=Fatima+%E2%80%A2+Développeuse+Mobile&fontSize=60&fontAlignY=35&animation=slideIn&fontColor=ffffff&fontAlign=left&desc" alt="Fatima Développeuse Android"/>
+<!-- Header dynamique avec wave animation -->
 
-<br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D9FF&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+There!;+I'm+Fatima;+Mobile+Developer+📱;+Code+with+Passion+💜;+Build+Amazing+Apps+🚀"/>
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Développeuse+Mobile+%F0%9F%93%B1;Passionnée+par+le+Code+%E2%9C%A8;Apprenante+Curieuse+%F0%9F%9A%80;Créatrice+d'Expériences+Mobiles" alt="Typing Animation" />
+<!-- Compteur de visites -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/votre-username/count.svg" />
+</div>
 
-<br/>
+<h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Android & Kotlin | Créatrice d'Expériences Digitales</h3>
+
+<p align="center">Développeuse mobile passionnée explorant l'intersection entre design et technologie. Je transforme des idées en applications élégantes, intuitives et impactantes. Constamment en apprentissage et en création, je vise à développer des applications qui inspirent, connectent et résolvent des problèmes réels tout en collaborant avec d'autres pour repousser les limites de la technologie mobile.</p>
+
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://votre-portfolio.com)
+
+<!-- Trophées GitHub -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=votre-username&theme=dracula&no-frame=true&column=7&margin-w=15&title=Stars,Repositories,Commits,Followers,PullRequest,Issues,MultiLanguage" alt="trophies"/>
+</p>
 
 </div>
 
 ---
 
-## 👋 À Propos de Moi
+<p>
+    <img align="right" alt="Coding Girl" width="400" style="margin-bottom: 20px;" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+</p>
 
-<img align="right" alt="Mobile Development" width="280" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+```kotlin
+data class Developer(
+    val name: String = "Fatima",
+    val role: String = "Mobile Developer 📱",
+    val languages: List<String> = listOf("Kotlin", "Python", "JavaScript"),
+    val passion: List<String> = listOf(
+        "Android Development",
+        "Clean Architecture", 
+        "Beautiful UI/UX",
+        "Problem Solving"
+    ),
+    val currentGoal: String = "Building Amazing Mobile Experiences ✨"
+) {
+    fun code() = "Transforming ideas into reality, one app at a time 🚀"
+    fun learn() = "Always curious, always growing 🌱"
+}
 
-Bonjour ! Je suis **Fatima**, développeuse mobile en formation, spécialisée dans le développement d'applications Mobile. J'aime transformer des idées en applications intuitives et modernes. Mon objectif est de créer des expériences mobiles qui simplifient la vie des utilisateurs.
-
-### 🎯 Objectifs Actuels
-- 📱 Maîtriser l'écosystème Android
-- 🎨 Créer des interfaces utilisateur élégantes et fluides
-- 🌱 Apprentissage continu et partage de connaissances
+val me = Developer()
+println(me.code())
+```
 
 <br clear="right"/>
 
-```kotlin
-class Fatima {
-    val role = "Développeuse Mobile"
-    val passion = listOf("Android", "UI/UX", "Clean Code")
-    val status = "En formation continue"
-    
-    fun getMotivation() = "Chaque ligne de code me rapproche de mon rêve ✨"
-}
-```
+### 🌟 À Propos de Moi
 
-<br/>
+
+- 🔭 Actuellement en train de développer **des applications Android natives**
+
+- 🌱 J'approfondis mes compétences en **Jetpack Compose, MVVM Architecture, et Modern Android Development**
+
+- 👯 J'aime collaborer en équipe et contribuer à des projets open-source
+
+- 💬 Demandez-moi à propos de **Android, Kotlin, UI/UX Design**
+
+
+- ⚡ Fun fact : Le nom de code interne d'Android est basé sur des **desserts** (Cupcake, Donut, Éclair...) 🍰<br>— un symbole de la créativité dans le développement mobile, le domaine qui me passionne !
+
+- 💭 Ma devise : **"Code with purpose, design with passion"**
 
 ---
 
-## 🛠️ Compétences Techniques
+<h3 align="center">🧰 Langages et Outils</h3>
+
+<p align="center" style="padding-right:10px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,dart,flutter,python,flask,js,html,css,bootstrap,php,mysql,sqlite,firebase,git,github,linux,vscode,idea,figma,wordpress,npm,vercel,stackoverflow&theme=dark&perline=13" />
+  </a>
+</p>
+
+<br/>
 
 <div align="center">
 
-### 📱 Développement Mobile
-
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
+### 📱 Ma Stack Mobile
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![Room DB](https://img.shields.io/badge/Room_DB-00D9FF?style=for-the-badge&logo=sqlite&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
+![Room](https://img.shields.io/badge/Room-00D9FF?style=for-the-badge&logo=sqlite&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+### 🌐 Web & Backend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & Base de Données
-
-<img src="https://skillicons.dev/icons?i=php,python,flask" />
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Outils de Développement
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-<br/>
+---
+
+<h2 align="center">📊 Statistiques et Activité</h2>
+
+<h3 align="center">🔥 Streak Stats</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=votre-username&theme=dracula&hide_border=false&background=1F222E&ring=00D9FF&fire=00D9FF&currStreakLabel=667EEA" width="500" alt="GitHub Streak"/>
+</p>
+
+<h3 align="center">💻 GitHub Profile Stats</h3>
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=00D9FF&icon_color=667EEA&text_color=C9D1D9" width="49%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&langs_count=8&theme=dracula&bg_color=1F222E&title_color=00D9FF&icon_color=667EEA&text_color=C9D1D9" width="41%" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=votre-username&bg_color=1f222e&color=00d9ff&line=667eea&point=00d9ff&area=true&hide_border=false" width="95%" alt="Contribution Graph"/>
+</div>
 
 ---
 
-## 📱 Projets Sélectionnés
+<h2 align="center">🚀 Projets Sélectionnés</h2>
 
 <div align="center">
 
@@ -93,22 +141,38 @@ class Fatima {
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Application Mobile
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+### 📱 Applications Android Natives
 
-Application mobile développée en **Kotlin** avec une architecture MVVM propre, intégrant Room Database pour la persistance locale.
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="right"/>
 
-**Technologies:** Kotlin · XML 
+Applications développées avec **Kotlin** et **Jetpack**, suivant l'architecture **MVVM/MVI** et les principes de **Clean Architecture**.
+
+**Fonctionnalités :**
+- 🎨 UI moderne avec Material Design 3
+- 💾 Persistance locale avec Room Database
+- 🌐 Appels API avec Retrofit & Coroutines
+- ⚡ Gestion d'état réactive
+- 🧪 Tests unitaires et d'intégration
+
+**Stack :** `Kotlin` `Jetpack Compose` `Room` `Retrofit` `Hilt`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web App 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+### 🌐 Applications Web Full-Stack
 
-Application web complète avec backend Python Flask et frontend responsive, incluant une API REST sécurisée.
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" align="right"/>
 
-**Technologies:** Python · Flask · HTML/CSS/JS .php .SQL
+Solutions web complètes avec backend **Python Flask** / **PHP** et frontend responsive moderne.
+
+**Fonctionnalités :**
+- 🎨 Design responsive et adaptatif
+- 🔐 API REST sécurisée
+- 💾 Base de données MySQL optimisée
+- 📊 Dashboard administratif interactif
+- 🚀 Déploiement cloud-ready
+
+**Stack :** `Python` `Flask` `JavaScript` `Bootstrap` `MySQL`
 
 </td>
 </tr>
@@ -116,54 +180,76 @@ Application web complète avec backend Python Flask et frontend responsive, incl
 
 </div>
 
-<br/>
-
 ---
+
+<h2 align="center">💡 Ma Philosophie de Développement</h2>
 
 <div align="center">
 
-<br/>
-
-## 💫 Restons Connectés
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-<br/>
-
-### 🌟 *Créativité · Innovation · Technologie*
-
-<br/>
-
-<table border="0" align="center">
+<table border="0">
 <tr>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-<br/><sub><b>Code Propre</b></sub>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/><br/>
+<b>Clean Code</b><br/>
+<sub>Code lisible et maintenable</sub>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<br/><sub><b>Design Moderne</b></sub>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/><br/>
+<b>User First</b><br/>
+<sub>L'utilisateur au centre</sub>
 </td>
-<td align="center" width="200">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
-<br/><sub><b>Innovation Continue</b></sub>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/><br/>
+<b>Best Practices</b><br/>
+<sub>Standards de l'industrie</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/><br/>
+<b>Innovation</b><br/>
+<sub>Toujours apprendre</sub>
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
+---
 
+<h2 align="center">📖 Citation Favorite</h2>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
 
-### ✨ *"Chaque projet est une opportunité de créer quelque chose d'extraordinaire"*
+> <sup>"</sup> <em>Travaille en silence, reste humble, code avec sincérité,<br> et fais confiance à Allah qui exécute les meilleurs résultats<br> pour ceux qui sont patients et constants.</em> <sup>"</sup>  
+> — <strong>Inspiré par ma maman 💜</strong>
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&height=180&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=36&fontColor=fff&color=0:00D9FF,50:6C5CE7,100:FF6B6B&animation=wave&fontAlignY=60&desc=🌟%20Au%20plaisir%20de%20collaborer%20avec%20vous%20!%20🚀&descSize=16&descAlignY=85&descColor=fff)
+</div>
 
+---
+
+<!-- Snake Animation -->
+<p align="center">
+    <img src="https://raw.githubusercontent.com/votre-username/votre-username/output/snake.svg" alt="Snake animation" />
+</p>
+
+<div align="center">
+   
+   <p><b>⭐ N'hésitez pas à star mes repositories si vous les trouvez intéressants !</b></p>
+</div>
 
 ---
 
 <div align="center">
-<sub>Fait avec 💙  | © 2025 Fatima</sub>
+
+### ✨ *"Chaque ligne de code est une opportunité de créer quelque chose d'extraordinaire"*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+<div align="center">
+<sub>💜 Développé avec passion</sub>
 </div>
