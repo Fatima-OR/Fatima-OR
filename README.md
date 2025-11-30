@@ -138,6 +138,9 @@ Applications développées avec **Kotlin** et **Jetpack**, suivant l'architectur
 
 Solutions web complètes avec backend **Python Flask** / **PHP** et frontend responsive moderne.
 
+
+
+
 **Fonctionnalités :**
 - 🎨 Design responsive et adaptatif
 - 🔐 API REST sécurisée
