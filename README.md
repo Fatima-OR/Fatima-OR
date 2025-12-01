@@ -70,7 +70,7 @@ println(me.code())
 
 <p align="center" style="padding-right:10px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,dart,flutter,python,flask,js,html,css,bootstrap,php,mysql,sqlite,firebase,git,github,linux,vscode,idea,figma,wordpress,npm,vercel,stackoverflow&theme=dark&perline=13" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,python,flask,js,html,css,bootstrap,php,mysql,sqlite,firebase,git,github,linux,vscode,figma&theme=dark&perline=13" />
   </a>
 </p>
 
