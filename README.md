@@ -9,7 +9,7 @@
 <!-- Compteur de visites -->
 
 
-<h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Android & Kotlin | Créatrice d'Expériences Digitales</h3>
+<h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Mobile | Créatrice d'Expériences Digitales</h3>
 
 <p align="center">Développeuse mobile passionnée explorant l'intersection entre design et technologie. Je transforme des idées en applications élégantes, intuitives et impactantes. Constamment en apprentissage et en création, je vise à développer des applications qui inspirent, connectent et résolvent des problèmes réels tout en collaborant avec d'autres pour repousser les limites de la technologie mobile.</p>
 
