@@ -57,7 +57,7 @@ println(me.code())
 
 - 👯 J'aime collaborer en équipe et contribuer à des projets open-source
 
-- 💬 Demandez-moi à propos de **Android, Kotlin, UI/UX Design**
+- 💬 Demandez-moi à propos de **Android, Kotlin,Flutter, UI/UX Design**
 
 
 - ⚡ Fun fact : Le nom de code interne d'Android est basé sur des **desserts** (Cupcake, Donut, Éclair...) 🍰<br>— un symbole de la créativité dans le développement mobile, le domaine qui me passionne !
