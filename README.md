@@ -196,7 +196,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 <div align="center">
 
 > <sup>"</sup> <em>Travaille en silence, reste humble, code avec sincérité,<br> et fais confiance à Allah qui exécute les meilleurs résultats<br> pour ceux qui sont patients et constants.</em> <sup>"</sup>  
-> — <strong>Inspiré par ma maman 💜</strong>
+> — <strong>Inspiré par ma maman💜</strong>
 
 </div>
 
