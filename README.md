@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Header dynamique avec wave animation -->
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D9FF&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+There!;+I'm+Fatima;+Mobile+Developer+📱;+Code+with+Passion+💜;+Build+Amazing+Apps+🚀"/>
 </h1>
