@@ -45,25 +45,22 @@ data class Developer(
 val me = Developer()
 println(me.code())
 ```
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding">
 
 <br clear="right"/>
 
 ### 🌟 À Propos de Moi
 
+<img align="right" alt="Android Development" width="400" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif">
 
 - 🔭 Actuellement en train de développer **des applications Android natives**
-
 - 🌱 J'approfondis mes compétences en **Jetpack Compose, MVVM Architecture, et Modern Android Development**
-
 - 👯 J'aime collaborer en équipe et contribuer à des projets open-source
-
-- 💬 Demandez-moi à propos de **Android, Kotlin,Flutter, UI/UX Design**
-
-
+- 💬 Demandez-moi à propos de **Android, Kotlin, Flutter, UI/UX Design**
 - ⚡ Fun fact : Le nom de code interne d'Android est basé sur des **desserts** (Cupcake, Donut, Éclair...) 🍰<br>— un symbole de la créativité dans le développement mobile, le domaine qui me passionne !
-
 - 💭 Ma devise : **"Code with purpose, design with passion"**
 
+<br clear="right"/>
 ---
 
 <h3 align="center">🧰 Langages et Outils</h3>
@@ -200,7 +197,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Mobile Development">
 
 <!-- Snake Animation -->
 
@@ -215,8 +212,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 
 ### ✨ *"Chaque ligne de code est une opportunité de créer quelque chose d'extraordinaire"*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
 </div>
 
 <div align="center">
