@@ -45,8 +45,7 @@ data class Developer(
 val me = Developer()
 println(me.code())
 ```
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Coding">
-
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Android Development">
 <br clear="right"/>
 
 ### 🌟 À Propos de Moi
@@ -61,7 +60,8 @@ println(me.code())
 - 💭 Ma devise : **"Code with purpose, design with passion"**
 
 <br clear="right"/>
----
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Mobile Development">
 
 <h3 align="center">🧰 Langages et Outils</h3>
 
