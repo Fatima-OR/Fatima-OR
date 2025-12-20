@@ -7,7 +7,7 @@
 
 
 <!-- Compteur de visites -->
-
+<img src="https://komarev.com/ghpvc/?username=ton-username&label=Visites%20du%20Profil&color=brightgreen&style=flat" />
 
 <h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Mobile | Créatrice d'Expériences Digitales</h3>
 
@@ -16,6 +16,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://votre-portfolio.com)
 
 <!-- Trophées GitHub -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 </div>
 
@@ -202,6 +205,9 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Mobile Development">
 
 <!-- Snake Animation -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-OR&custom_title=Contributions%20sur%20l'année&bg_color=0D1117&color=3DDC84&line=3DDC84&point=FFFFFF&area_color=3DDC84&area=true&hide_border=true" width="100%"/>
+</p>
 
 <div align="center">
    
