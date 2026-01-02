@@ -214,7 +214,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
    <p><b>⭐ N'hésitez pas à star mes repositories si vous les trouvez intéressants !</b></p>
 </div>
 
-------------------------------------------------------------                                                                                        ---------------------------------------------------------
+------------------------------------------------------------                                                                                        
 
 
 <div align="center">
