@@ -203,7 +203,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Mobile Development">
-
+<!-- Snake Animation -->
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-OR&custom_title=Contributions%20sur%20l'année&bg_color=0D1117&color=3DDC84&line=3DDC84&point=FFFFFF&area_color=3DDC84&area=true&hide_border=true" width="100%"/>
