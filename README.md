@@ -1,4 +1,5 @@
 <div align="center">
+<!-- Header dynamique avec wave animation -->
 
 <!-- Header dynamique avec wave animation -->
 
