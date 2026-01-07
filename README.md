@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D9FF&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+There!;+I'm+Fatima;+Mobile+Developer+📱;+Code+with+Passion+💜;+Build+Amazing+Apps+🚀"/>
 </h1>
 <!-- Compteur de visites -->
-<!-- Compteur de visites -->
 <img src="https://komarev.com/ghpvc/?username=ton-username&label=Visites%20du%20Profil&color=brightgreen&style=flat" />
 
 <h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Mobile | Créatrice d'Expériences Digitales</h3>
