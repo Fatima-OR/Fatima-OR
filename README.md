@@ -109,7 +109,7 @@ println(me.code())
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Applications Android Natives
+### 📱 Applications Android 
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="right"/>
 
