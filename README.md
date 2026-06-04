@@ -1,15 +1,11 @@
 <div align="center">
 <!-- Header dynamique avec wave animation-->
-    <!-- Header dynamique avec wave animation-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D9FF&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+There!;+I'm+Fatima;+Mobile+Developer+📱;+Code+with+Passion+💜;+Build+Amazing+Apps+🚀"/>
 </h1>
 <h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Mobile | Créatrice d'Expériences Digitales</h3>
-
 <p align="center">Développeuse mobile passionnée explorant l'intersection entre design et technologie. Je transforme des idées en applications élégantes, intuitives et impactantes. Constamment en apprentissage et en création, je vise à développer des applications qui inspirent, connectent et résolvent des problèmes réels tout en collaborant avec d'autres pour repousser les limites de la technologie mobile.</p>
-
 <!-- Portfolio -->
-
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://votre-portfolio.com)
 
 <!-- Trophées GitHub -->
