@@ -6,6 +6,7 @@
 <h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Mobile | Créatrice d'Expériences Digitales</h3>
 <p align="center">Développeuse mobile passionnée explorant l'intersection entre design et technologie. Je transforme des idées en applications élégantes, intuitives et impactantes. Constamment en apprentissage et en création, je vise à développer des applications qui inspirent, connectent et résolvent des problèmes réels tout en collaborant avec d'autres pour repousser les limites de la technologie mobile.</p>
 <!-- Portfolio -->
+    
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://votre-portfolio.com)
 
 <!-- Trophées GitHub -->
