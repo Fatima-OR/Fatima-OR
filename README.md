@@ -108,11 +108,11 @@ println(me.code())
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Applications Android 
+### 📱 Applications Mobile
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="right"/>
 
-Applications développées avec **Kotlin** et **Jetpack**, suivant l'architecture **MVVM/MVI** et les principes de **Clean Architecture**.
+Applications développées avec **Kotlin** et **Jetpack**, **Flutter** suivant l'architecture **MVVM/MVI** et les principes de **Clean Architecture**.
 
 **Fonctionnalités :**
 - 🎨 UI moderne avec Material Design 3
