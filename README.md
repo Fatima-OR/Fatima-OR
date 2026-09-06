@@ -121,7 +121,7 @@ Applications développées avec **Kotlin** et **Jetpack**, **Flutter** suivant l
 - ⚡ Gestion d'état réactive
 - 🧪 Tests unitaires et d'intégration
 
-**Stack :** `Kotlin` `Jetpack Compose` `Room` `Retrofit` `Hilt`
+**Stack :** `Kotlin` `Flutter` `Jetpack Compose` `Room` `Retrofit` `Hilt`
 
 </td>
 <td width="50%" valign="top">
@@ -142,7 +142,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 - 📊 Dashboard administratif interactif
 - 🚀 Déploiement cloud-ready
 
-**Stack :** `Python` `Flask` `JavaScript` `Bootstrap` `MySQL`
+**Stack :** `Python` `Flask` `JavaScript` `Bootstrap` `MySQL` `HTML` `CSS`
 
 </td>
 </tr>
