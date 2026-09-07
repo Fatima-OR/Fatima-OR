@@ -142,7 +142,7 @@ Solutions web complètes avec backend **Python Flask** / **PHP** et frontend res
 - 📊 Dashboard administratif interactif
 - 🚀 Déploiement cloud-ready
 
-**Stack :** `Python` `Flask` `JavaScript` `Bootstrap` `MySQL` `HTML` `CSS`
+**Stack :** `Python` `Flask` `JavaScript` `Bootstrap` `MySQL` `HTML` `CSS` `SQL`
 
 </td>
 </tr>
