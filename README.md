@@ -24,9 +24,9 @@
 data class Developer(
     val name: String = "Fatima",
     val role: String = "Mobile Developer 📱",
-    val languages: List<String> = listOf("Kotlin", "Python", "JavaScript"),
+    val languages: List<String> = listOf("Kotlin", "Python", "JavaScript","Dart"),
     val passion: List<String> = listOf(
-        "Android Development",
+        "Mobile Development",
         "Clean Architecture", 
         "Beautiful UI/UX",
         "Problem Solving"
