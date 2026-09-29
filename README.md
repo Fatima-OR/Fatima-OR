@@ -207,7 +207,6 @@ Frontend responsive moderne **Bootstrap** et **JavaScript**...
    <p><b> N'hésitez pas à star mes repositories si vous les trouvez intéressants !</b></p>
 </div>
 
-------------------------------------------------------------                                                                                        
 
 
 <div align="center">
