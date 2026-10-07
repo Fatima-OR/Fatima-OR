@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">Développeuse Mobile Passionnée | Étudiante | Spécialisée Mobile | Créatrice d'Expériences Digitales</h3>
 <p align="center">Développeuse mobile passionnée explorant l'intersection entre design et technologie. Je transforme des idées en applications élégantes, intuitives et impactantes. Constamment en apprentissage et en création, je vise à développer des applications qui inspirent, connectent et résolvent des problèmes réels tout en collaborant avec d'autres pour repousser les limites de la technologie mobile.</p>
-<!-- Portfolio -->
+<!-- Lien de Portfolio -->
     
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://votre-portfolio.com)
 
@@ -200,6 +200,7 @@ Frontend responsive moderne **Bootstrap** et **JavaScript**...
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Mobile Development">
 <!-- Snake Animation -->
 <!-- Snake Animation -->
+<!--diagramme-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-OR&custom_title=Contributions%20sur%20l'année&bg_color=0D1117&color=3DDC84&line=3DDC84&point=FFFFFF&area_color=3DDC84&area=true&hide_border=true" width="100%"/>
 </p>
