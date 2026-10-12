@@ -1,5 +1,6 @@
 <div align="center">
 <!-- Header dynamique avec wave animation créative -->
+    
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D9FF&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+There!;+I'm+Fatima;+Mobile+Developer+📱;+Code+with+Passion+💜;+Build+Amazing+Apps+🚀"/>
 </h1>
@@ -44,7 +45,7 @@ println(me.code())
 <br clear="right"/>
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Mobile Development">
 
-### 🌟 À Propos de Moi
+### 🌟À Propos de Moi
 
 <img align="right" alt="Android Development" width="400" src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif">
 
